@@ -1,0 +1,16 @@
+{
+	"name": "Cristian Ortiz",
+	"short_name": "Pokedex",
+	"description": "Soy Desarrollador con conocimientos en JavaScript, CSS y React me gusta experimentar y dar vida a cosas sencillas como a evoluciones de procesos mas avanzados.",
+	"start_url": "/index.html",
+	"display": "standalone",
+	"background_color": "#000",
+	"theme_color": "#000",
+	"icons": [
+		{
+			"src": "./favicon.png",
+			"sizes": "50x50",
+			"type": "image/png"
+		}
+	]
+}
